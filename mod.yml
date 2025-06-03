@@ -219,7 +219,7 @@ assets:
   - name: remastered/obj/H_EX500_XM_BTLF.mdlx/-0.dds
   method: copy
   source:
-  - name: Texture/Voice/-0.dds
+  - name: Texture/V/-0.dds
 - name: remastered/obj/P_EX100_BTLF.mdlx/-1.dds
   multi:
   - name: remastered/obj/P_EX100_NM_BTLF.mdlx/-1.dds
@@ -233,7 +233,7 @@ assets:
   - name: remastered/obj/H_EX500_XM_BTLF.mdlx/-1.dds
   method: copy
   source:
-  - name: Texture/Voice/-1.dds
+  - name: Texture/V/-1.dds
 # Wisdom
 - name: remastered/obj/P_EX100_MAGF.mdlx/-0.dds
   multi:
@@ -277,7 +277,7 @@ assets:
   - name: remastered/obj/H_EX500_WI_TRIF.mdlx/-0.dds
   method: copy
   source:
-  - name: Texture/Model/-0.dds
+  - name: Texture/M/-0.dds
 - name: remastered/obj/P_EX100_TRIF.mdlx/-1.dds
   multi:
   - name: remastered/obj/P_EX100_NM_TRIF.mdlx/-1.dds
@@ -291,7 +291,7 @@ assets:
   - name: remastered/obj/H_EX500_WI_TRIF.mdlx/-1.dds
   method: copy
   source:
-  - name: Texture/Model/-1.dds
+  - name: Texture/M/-1.dds
 # Final
 - name: remastered/obj/P_EX100_ULTF.mdlx/-0.dds
   multi:
